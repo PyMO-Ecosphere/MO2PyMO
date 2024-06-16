@@ -4,7 +4,8 @@
 
 ## 如何下载安装MO2PyMO补丁
 
-1. 打开[Release页面](https://github.com/PyMO-Ecosphere/MO2PyMO/releases/)，选择游戏和平台，下载对应的MO2PyMO补丁。
+1. 打开[Release页面](https://github.com/PyMO-Ecosphere/MO2PyMO/releases/)，下载文件`MO2PyMO_Patches.zip`。
+1. 根据你的游戏和平台，选择对应的补丁压缩包，将其打开后应该可以看到压缩包内有一个`script`文件夹和`gameconfig.txt`文件。
 1. 将补丁解压到游戏文件夹，覆盖`script`文件夹和`gameconfig.txt`文件即可。
 1. 再次尝试启动游戏，现在应该可以正常运行。
 
